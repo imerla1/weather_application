@@ -1,0 +1,3 @@
+pip install folium
+pip install pillow
+pip install requests
